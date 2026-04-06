@@ -20,22 +20,22 @@ It provides insights into regional performance, product categories, and profitab
 
 ## ✅ Solutions / Insights
 
-* 📈 **Overall Performance:**
+* **Overall Performance:**
   Total Sales: $2.28M, Total Profit: $283K, Profit Margin: 12.44%
 
-* 📅 **Trend Analysis:**
+*  **Trend Analysis:**
   Sales and profit show a steady upward trend from 2014 to 2018 with some fluctuations.
 
-* 🌍 **Regional Analysis:**
+* **Regional Analysis:**
   West region contributes the highest sales, followed by East, Central, and South.
 
-* 📦 **Category Performance:**
+*  **Category Performance:**
   Technology generates the highest sales, followed by Furniture and Office Supplies.
 
-* 🗺️ **State-wise Insights:**
+* **State-wise Insights:**
   Some states show high sales but negative profit, indicating cost or discount issues.
 
-* 🏆 **Product Insights:**
+* **Product Insights:**
   A few sub-categories (like Phones and Chairs) drive a significant portion of revenue.
 
 ---
