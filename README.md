@@ -50,7 +50,7 @@ It provides insights into regional performance, product categories, and profitab
 ## 📁 Files
 
 * Dashboard PDF: `Superstore_Dashboard.pdf`
-* Tableau Workbook (if added)
+
 
 ---
 
